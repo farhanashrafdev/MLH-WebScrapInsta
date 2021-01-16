@@ -1,0 +1,24 @@
+{
+  "name": "mlh-webscrapinsta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crreds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudraco/MLH-WebScrapInsta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudraco/MLH-WebScrapInsta/issues"
+  },
+  "homepage": "https://github.com/rudraco/MLH-WebScrapInsta#readme",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0"
+  }
+}
